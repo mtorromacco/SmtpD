@@ -136,7 +136,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge
 [license-url]: https://opensource.org/licenses/MIT
 	
-[test-shield]: https://img.shields.io/github/workflow/status/mtorromacco/SmtpD/Tests/main.svg?style=for-the-badge 
+[test-shield]: https://img.shields.io/github/workflow/status/mtorromacco/SmtpD/Tests/master.svg?style=for-the-badge 
 [test-url]: https://github.com/mtorromacco/SmtpD/actions/workflows/tests.yml
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?logo=linkedin&colorB=555&style=for-the-badge
